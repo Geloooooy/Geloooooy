@@ -18,6 +18,7 @@ As I continue navigating my BSIT journey, GitHub remains an indispensable compan
 The Git Cheat Sheet
 To ensure a smooth sailing journey on GitHub, here's a quick cheat sheet of essential Git commands every BSIT student should know:
 
+git init
 When to use: Initializing a new Git repository for a project.
 Parameters: None.
 Example: git init
