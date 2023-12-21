@@ -13,14 +13,15 @@ Building a Portfolio
 As I progress through my BSIT journey, GitHub serves as a digital portfolio showcasing my academic projects, personal endeavors, and contributions to the broader tech community. This portfolio not only highlights my technical proficiencies but also underscores my commitment to continuous learning, innovation, and collaboration. Whether it's a software project from a class assignment or a self-initiated venture, GitHub encapsulates my growth, evolution, and aspirations in the tech domain.
 
 As I continue navigating my BSIT journey, GitHub remains an indispensable companion, fostering collaboration, hands-on learning, and personal growth. Through its myriad features, tools, and community, GitHub encapsulates the ethos of technology, innovation, and collaboration, propelling me forward in my academic and professional endeavors. Feel free to connect, collaborate, or explore my repositories as we embark on this exciting tech journey together! 🚀
+
+
 The Git Cheat Sheet
 To ensure a smooth sailing journey on GitHub, here's a quick cheat sheet of essential Git commands every BSIT student should know:
-
-git init
 
 When to use: Initializing a new Git repository for a project.
 Parameters: None.
 Example: git init
+
 git clone [repository_url]
 
 When to use: Cloning an existing repository to your local machine.
